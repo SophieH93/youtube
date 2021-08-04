@@ -81,3 +81,15 @@ body{
     border-left: none;
 }
 
+.user-options {
+    height: 35px;
+    display: flex;
+    margin-left: auto;
+    align-items: center;
+}
+
+.user-options i {
+    height: 80%;
+    margin-right: 20px;
+    cursor: pointer;
+}
