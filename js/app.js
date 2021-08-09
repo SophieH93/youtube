@@ -64,3 +64,9 @@ searchBtn.addEventListener("click", () => {
     location.href = searchLink + searchInput.value;
   }
 });
+
+const btn = document.querySelector(".dark-modeBtn");
+
+btn.addEventListener("click", function () {
+  document.body.classList.toggle("dark-theme");
+});
