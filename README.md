@@ -1,5 +1,7 @@
 # Youtube Clone
 
+![](youtube.gif)
+
 Created using HTML, CSS, Javascript an Youtube API. Includes dark mode feature.
 
 ## Youtube API
